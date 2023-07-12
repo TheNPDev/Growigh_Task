@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438767815385",
+    "project_id": "growigh-task",
+    "storage_bucket": "growigh-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438767815385:android:60be9ddbc4902127e48cc8",
+        "android_client_info": {
+          "package_name": "com.example.growigh_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438767815385-adcikna2t3a46rmevnrm1h34hmpkp93v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADML1EjWMrssBdKP_xjUrYu13bbMxlNVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438767815385-adcikna2t3a46rmevnrm1h34hmpkp93v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
